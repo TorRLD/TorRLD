@@ -1,5 +1,5 @@
 <h1>Hey, guys!</h1>
-<p><h4> I'm Heitor and I'm Degree Elctrical Egineer and this is my repository about my projects that I maked in my college and that I maked only for hobbie.</h4>
+<p><h4> I'm Heitor and I'm majoring in electrical engineering and this is my repository about my projects that I maked in my college and that I maked only for hobbie.</h4>
 <p><h4> Things that I like: </h4>
 <ol>
   <li> 3D CAD </li>
