@@ -8,7 +8,7 @@
   <li> Mechanical machines </li>
   <li> Control and Automation </li>
 </ol>
-<p>This list don't is listed by importance</p>
+<p>This list don't is ordered by importance</p>
   
 
 ### :hammer_and_wrench: Languages and Tools :
