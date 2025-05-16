@@ -6,6 +6,7 @@
   <li> C++, Python and any languages applied in robotics </li>
   <li> Control and Automation </li>
   <li> Embbeded Systems</li>
+  <li> Accessibility </li>
 </ol>
 <p>This list don't is ordered by importance</p>
   
