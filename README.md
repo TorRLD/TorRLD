@@ -8,7 +8,6 @@ This repository is a collection of my academic research, professional projects, 
 
 * **Robotics & Autonomous Navigation:** Developing systems using ROS, LIDAR, and depth cameras.
 * **Embedded Systems:** Programming microcontrollers (like STM32) and building hardware solutions (e.g., smart power supplies).
-* **Cybersecurity & Ethical Hacking:** Exploring web application security, OSINT, and forensics.
 * **Control and Automation:** Applying C++, Python, and other languages to solve real-world problems.
 * **Additive Manufacturing:** 3D printing and digital fabrication for mechanical models and prototyping.
 * **Accessibility:** Creating technology that makes a practical difference.
