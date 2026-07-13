@@ -1,6 +1,6 @@
 # Hey, guys! 👋
 
-I'm Heitor, an Electrical Engineering student, a researcher at the GIPAR group, and a resident in Embedded Systems (EmbarcaTech). 
+I'm Heitor, an Electrical Engineer and a researcher at the GIPAR group. 
 
 This repository is a collection of my academic research, professional projects, and personal hobbies—ranging from autonomous navigation to hardware prototyping.
 
